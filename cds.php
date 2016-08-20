@@ -1,6 +1,6 @@
 <?php
 error_reporting(0);
-$scanPassword = "21b727a7e839b41f54026f5ac9f85a8d";
+$scanPassword = "";
 
 
 /** 
